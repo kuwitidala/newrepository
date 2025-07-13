@@ -8,7 +8,7 @@
                     <img src="image/logo.jpg">
                 </div>
                 <div class="footer-info">
-                    <p>изменения</p>
+                    <p>изменения 222</p>
                 </div>
                 <div class="footer-mailing">
                     <form class="footer-mailing" method="post" action="">
